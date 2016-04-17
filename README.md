@@ -1,0 +1,2 @@
+# pyuglifyjs
+easy uglifyjs
